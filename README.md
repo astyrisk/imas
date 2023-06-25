@@ -1,4 +1,4 @@
-## imas: image to ascii converter
+## imas: image to ascii converter in c
 
 ### install
 1. `git clone https://github.com/astyrisk/imas.git`
@@ -6,4 +6,4 @@
 3. `make`
 
 ### use
-`imas [options] <source>` 
+1. `imas [options] <source>` 
